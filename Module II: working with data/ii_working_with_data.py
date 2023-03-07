@@ -19,7 +19,7 @@ import seaborn as sns
 ########################################################################################################################
 
 # input the location where you have saved the survivor data .csv files
-data = 'C:/Users/jpkad/Documents/survivor_data/data/'
+data = 'insert the directory path where you saved the data here'
 
 ########################################################################################################################
 # read in dataset with information on Survivor 'castaways'
